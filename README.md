@@ -1,4 +1,4 @@
 to run this project, run following commands.
-npm start
-npm run server
+1)npm start,
+ 2)npm run server
 
